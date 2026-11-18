@@ -17,9 +17,13 @@ A production-ready Spring Boot backend service designed to optimize delivery ord
 
 ---
 
-## 2. API Specifications
+## 2. API Specifications & Live URLs
 
-### Base URL: `http://localhost:8080` (or live deployed host)
+- **Live Deployed Base URL**: [https://dispatch-load-balancer-lz23.onrender.com](https://dispatch-load-balancer-lz23.onrender.com)
+- **Live Interactive Swagger UI**: [https://dispatch-load-balancer-lz23.onrender.com/swagger-ui.html](https://dispatch-load-balancer-lz23.onrender.com/swagger-ui.html)
+- **OpenAPI Schema (JSON)**: [https://dispatch-load-balancer-lz23.onrender.com/api-docs](https://dispatch-load-balancer-lz23.onrender.com/api-docs)
+
+### Endpoints Overview
 
 ### 1. Register Delivery Orders
 - **Endpoint**: `POST /api/dispatch/orders`
